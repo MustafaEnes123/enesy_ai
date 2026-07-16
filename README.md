@@ -235,4 +235,4 @@ This project is open-source and released under the [MIT License](LICENSE.md). Fe
 
 ---
 
-<p align="center"><i>Enesy AI - Engineered for sovereign, secure, and unfiltered local intelligence.</i></p>
+<p align="center"><i>Enesy AI - Engineered for sovereign, secure, and unfiltered local intelligence, made supports by Microsoft.</i></p>
